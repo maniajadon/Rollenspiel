@@ -1,9 +1,5 @@
 package Rollenspiel1;
 
-/**
- *
- * @author Jmania
- */
 public class Monster {
     private double dmgM;
     private double hpM;
